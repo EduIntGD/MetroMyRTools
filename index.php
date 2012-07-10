@@ -5,5 +5,4 @@
 	//	Pagina Base
 	include "PaginaBase.php";
 	//	Mas Comentarios ++
-	//	Mas Comentarios ++
 ?>
